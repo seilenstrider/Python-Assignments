@@ -31,7 +31,7 @@ def decision2_1(user_response):
 		user_response = int(input("1.Calm him down\n2.Grab him\n3.Leave him"))
 		
 
-def decision2_1_1(user_response):
+def decision2_1_1(user_response)
   if user_response == 1:
     print("what do you do next?")
     user_response = int(input("1.Go back for your son\n2.Help others\n3.Force your way into vault"))
